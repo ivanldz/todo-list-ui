@@ -1,0 +1,20 @@
+{
+  "header": {
+    "title": "Welcome to Todo List App"
+  },
+  "noContent": {
+    "title": "There is no Task to display",
+    "body": "You seem to have a pretty free schedule"
+  },
+  "buttons":{
+    "create": "Create task"
+  },
+  "paginate":{
+    "page": "Page",
+    "perPage": "Tasks per page",
+    "doneFilter": "Only done"
+  },
+  "forms": {
+    "searchPlaceholder": "Search by state, name or title"
+  }
+}

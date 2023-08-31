@@ -1,0 +1,79 @@
+.menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -15px;
+}
+
+.menu form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30px;
+  width: 50%;
+}
+
+.menu form input {
+  height: 50px;
+  width: 70%;
+  padding: 16px;
+  background: #262626;
+  border: 1px solid #0d0d0d;
+  border-radius: 8px;
+  color: #f2f2f2;
+  margin-right: 5px;
+}
+
+.menu form input:focus {
+  border: #4ea8de;
+}
+
+.menu form button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  width: 5%;
+  background: #1e6f9f;
+  border-radius: 8px;
+  color: #f2f2f2;
+  border: none;
+  cursor: pointer;
+  font-size: 25px;
+}
+
+.menu form button:hover {
+  border-color: rgba(0, 0, 0, 0.15);
+  box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+  background-color: #1e5373;
+  font-weight: 700;
+}
+
+.menu form button:active {
+  background-color: #1e6f9f;
+  border-color: rgba(0, 0, 0, 0.15);
+  box-shadow: rgba(0, 0, 0, 0.06) 0 2px 4px;
+  transform: translateY(0);
+  font-weight: 700;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 50px;
+  color: #f2f2f2;
+}
+
+.footer svg {
+ cursor: pointer;
+}
+
+.footer p{
+  font-size: 30px;
+  color:#4f4f4f
+}
+
+.footer p span:last-child{
+  margin-left: 50px;
+}

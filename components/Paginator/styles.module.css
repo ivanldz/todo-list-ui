@@ -1,0 +1,35 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-self: center;
+  flex-direction: column;
+}
+
+.container div h3 {
+  color: aqua;
+}
+.container div h3:hover {
+  text-decoration: underline;
+}
+.list {
+  list-style: none;
+  width: 55%;
+}
+
+.noContent {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 100px;
+  margin-top: 50px;
+  flex-direction: column;
+  color: #808080;
+}
+
+.noContent h3 {
+  font-size: 30px;
+}
+
+.noContent p {
+  font-size: 20px;
+}

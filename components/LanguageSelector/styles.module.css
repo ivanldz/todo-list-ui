@@ -1,0 +1,11 @@
+.selector {
+  position: fixed;
+  top: 5px;
+  left: 5px;
+  background-color: #1e6f9f;
+  padding: 12px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  color: #f2f2f2;
+}

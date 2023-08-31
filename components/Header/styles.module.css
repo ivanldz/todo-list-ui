@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@1,900');
+.header {
+    background: #0D0D0D;
+    margin-top: 0;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+    margin: 0;
+    padding: 20px;
+    font-weight: 700;
+    font-size: 80px;
+    font-family: 'Inter Tight', sans-serif;
+}
+
+.title span:first-child{
+    color:#4EA8DE
+}
+
+.title span:last-child{
+    color:#5E60CE
+}

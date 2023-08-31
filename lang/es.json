@@ -1,0 +1,20 @@
+{
+  "header": {
+    "title": "Bienvenido a Todo List App"
+  },
+  "noContent": {
+    "title": "No hay tareas que mostrar",
+    "body": "Parece que tienes una agenda bastante libre"
+  },
+  "buttons": {
+    "create": "Crear tarea"
+  },
+  "paginate":{
+    "page": "Página",
+    "perPage": "Tareas por página",
+    "doneFilter": "Solo completas"
+  },
+  "forms": {
+    "searchPlaceholder": "Busca por estado, nombre o titulo"
+  }
+}
